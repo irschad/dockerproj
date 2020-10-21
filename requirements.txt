@@ -1,2 +1,2 @@
 click
-pylint
+pylint==2.4.1
